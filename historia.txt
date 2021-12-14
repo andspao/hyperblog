@@ -1,5 +1,5 @@
 Hola, esta es mi historia
 
-Estoy haciend un archivo nuevo
+Este es un archivo modificado
 
-Me duele la cabeza
+Ya no me duele la cabeza
